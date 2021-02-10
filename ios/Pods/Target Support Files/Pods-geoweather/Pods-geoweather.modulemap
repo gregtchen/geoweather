@@ -1,0 +1,6 @@
+module Pods_geoweather {
+  umbrella header "Pods-geoweather-umbrella.h"
+
+  export *
+  module * { export * }
+}

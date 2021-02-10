@@ -1,0 +1,6 @@
+module Pods_geoweather_geoweatherTests {
+  umbrella header "Pods-geoweather-geoweatherTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
